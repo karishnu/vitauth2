@@ -1,0 +1,31 @@
+{
+  "name": "vitauth2",
+  "version": "3.0.0",
+  "private": false,
+  "description": "Authentication module for the new vtopbeta 2.0 (VIT Student Portal)",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Karishnu Poddar <karishnu@gmail.com>",
+  "license": "Apache-2.0",
+  "keywords": [
+    "VIT",
+    "university",
+    "authentication",
+    "academics",
+    "student",
+    "login",
+    "vtopbeta",
+    "vtop"
+  ],
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "get-pixels": "^3.3.0",
+    "ndarray": "^1.0.18",
+    "path": "^0.12.7",
+    "request": "^2.83.0"
+  }
+}
