@@ -122,5 +122,7 @@ fabric.properties
 
 .idea/
 
+test.js
+
 
 # End of https://www.gitignore.io/api/node,webstorm+all
